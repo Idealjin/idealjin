@@ -5,8 +5,8 @@
 
 ### :musical_keyboard: Skill
 
--BackEnd : JAVA11, SpringFrameWork, OracleDB, MariaDB, mybatis <br>
--FrontEnd : JavaScript, Html5, Css3<br>
+- BackEnd : JAVA11, SpringFrameWork, OracleDB, MariaDB, mybatis <br>
+- FrontEnd : JavaScript, Html5, Css3<br>
 
 ### :pencil2: Education
 - 2021.10~2022.04.15 국비지원 풀스택 웹개발자 양성과정 (하이미디어 천호)
