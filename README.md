@@ -1,4 +1,15 @@
-### Hi there 👋
+### 안녕하세요! 꾸준히 노력하는 개발자 이상진입니다.<br>
+매일 부족한 부분을 공부하며 성장하려고 노력하고 있습니다.<br>
+현재는 풀스택 웹 개발자 과정 국비지원 과정(~22/4/15)을 하며 팀프로젝트 진행중이고, <br>
+개인적으로는 인프런에서 Spring강의를 수강중입니다. <br>
+부족한 부분을 채우기 위해 1일 1커밋과 알고리즘 공부를 병행하고 있습니다.
+
+## :musical_keyboard: Skill
+JAVA11, SpringFrameWork, OracleDB, MariaDB, mybatis
+JavaScript, Html5, Css3
+Linux
+
+
 
 <!--
 **Idealjin/idealjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
