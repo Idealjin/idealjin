@@ -5,7 +5,7 @@
 
 ### :musical_keyboard: Skill
 
-- BackEnd : JAVA11, SpringFrameWork, OracleDB, MariaDB, mybatis <br>
+- BackEnd : JAVA11, SpringFrameWork, OracleDB, mybatis <br>
 - FrontEnd : JavaScript, Html5, Css3<br>
 
 ### :pencil2: Education
