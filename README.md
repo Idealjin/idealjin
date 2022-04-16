@@ -1,11 +1,9 @@
 ## 안녕하세요! 꾸준히 노력하는 개발자 이상진입니다.:smile:<br>
 매일 부족한 부분을 공부하며 성장하려고 노력하고 있습니다.<br>
-현재는 풀스택 웹 개발자 과정 국비지원 과정 (~22/4/15) 에서 팀프로젝트 진행중이고, <br>
-부족한 부분을 채우기 위해 1일 1커밋과 알고리즘 공부를 병행하고 있습니다.
 
 ### :musical_keyboard: Skill
 
-- BackEnd : JAVA11, SpringFrameWork, OracleDB, mybatis, python <br>
+- BackEnd : JAVA11, SpringFrameWork, OracleDB, Mysql, mybatis, python <br>
 - FrontEnd : JavaScript, Html5, Css3<br>
 
 ### :pencil2: Education
