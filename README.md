@@ -3,7 +3,7 @@
 
 ### :musical_keyboard: Skill
 
-- BackEnd : JAVA11, SpringFrameWork, OracleDB, Mysql, mybatis, python <br>
+- BackEnd : JAVA11, SpringBoot, OracleDB, Mysql, mybatis, python, Django <br>
 - FrontEnd : JavaScript, Html5, Css3<br>
 
 ### :pencil2: Education
