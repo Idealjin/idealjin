@@ -1,9 +1,9 @@
-## 안녕하세요! 꾸준히 성장하는 개발자 이상진입니다.:smile:<br>
+## 안녕하세요! 이상진입니다.:smile:<br>
 
 
 ### :musical_keyboard: Skill
 
-- BackEnd : JAVA11, SpringBoot, OracleDB, Mysql, mybatis, python, Django <br>
+- BackEnd : JAVA, SpringBoot, OracleDB, MySQL, mybatis, python, Django <br>
 - FrontEnd : JavaScript, Html5, Css3<br>
 
 ### :pencil2: Education
