@@ -1,4 +1,4 @@
-## 안녕하세요! 이상진입니다.:smile:<br>
+## 안녕하세요! 배움이 즐거운 개발자 이상진입니다.:smile:<br>
 
 
 ### :musical_keyboard: Skill
